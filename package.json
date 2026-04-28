@@ -1,0 +1,15 @@
+{
+  "name": "cypress---automation",
+  "version": "1.0.0",
+  "description": "RCV Cypress Automation",
+  "license": "ISC",
+  "author": "\"Chethana Dassanayake\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^15.13.1"
+  }
+}
